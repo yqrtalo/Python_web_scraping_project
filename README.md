@@ -34,6 +34,10 @@
 ## 5. 免責聲明
 本專案抓取之數據（來自 Box Office Mojo 與 IMDb）僅供學術研究與職前訓練專案展示使用，不存儲於公開資料庫，亦不投入任何商業用途。
 
+## 分析成果示例 
+![年度票房集中度趨勢圖](images/boxoffice_trend.png)
+
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
 
